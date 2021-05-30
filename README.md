@@ -1,24 +1,21 @@
-# Dracula FZF
+# Dracula for [FZF](https://github.com/junegunn/fzf)
 
-![image](https://user-images.githubusercontent.com/245435/117311722-d5ab6000-ae5a-11eb-861e-b986206a5129.png)
+> A dark theme for [FZF](https://github.com/junegunn/fzf).
 
-## Usage
+![Screenshot](./screenshot.png)
 
-On ZSH and Bash:
+## Install
 
-```sh
-export FZF_DEFAULT_OPTS='
-  --color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9
-  --color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9
-  --color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6
-  --color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4'
-```
+All instructions can be found at [draculatheme.com/fzf](https://draculatheme.com/fzf).
 
-On Fish:
+## Team
 
-```fish
-set -Ux FZF_DEFAULT_OPTS "--color=fg:#f8f8f2,bg:#282a36,hl:#bd93f9
-  --color=fg+:#f8f8f2,bg+:#44475a,hl+:#bd93f9
-  --color=info:#ffb86c,prompt:#50fa7b,pointer:#ff79c6
-  --color=marker:#ff79c6,spinner:#ffb86c,header:#6272a4"
-```
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+
+[![Carlos Becker](https://github.com/caarlos0.png?size=100)](https://github.com/caarlos0) |
+--- |
+[Carlos Becker](https://github.com/caarlos0) |
+
+## License
+
+[MIT License](./LICENSE)
